@@ -1,7 +1,6 @@
 import * as React from 'react';
 import { useState } from 'react';
 import { createNativeStackNavigator, NativeStackScreenProps } from '@react-navigation/native-stack';
-import { createDrawerNavigator, DrawerScreenProps  } from '@react-navigation/drawer';
 import { NavigationContainer } from '@react-navigation/native';
 import LoginScreen from './screens/LoginScreen'
 import CreateAccountScreen from './screens/CreateAccountScreen';
